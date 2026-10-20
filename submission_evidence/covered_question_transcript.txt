@@ -1,0 +1,9 @@
+Connected to harness support_chatbot (session support-chat).
+Type a message, or 'quit' to exit.
+
+you> How long does shipping take?
+
+bot> Estimated delivery times are shown at checkout and in your shipping confirmation email. Processing typically takes 1–2 business days before dispatch. If you have a specific question about an order, please contact our human support team at the phone number provided in the FAQ.
+
+
+you> quit

@@ -1,0 +1,8 @@
+Connected to harness support_chatbot (session support-chat).
+Type a message, or 'quit' to exit.
+
+you> Can you help me write a birthday message for my friend?
+
+bot> I'm sorry, but writing birthday messages is outside my scope. For bug reports, please follow the workflow I described earlier. For questions about the online shop, refer to the FAQ. For all other inquiries, please contact our human support team at the phone number provided in the FAQ.
+
+you> quit

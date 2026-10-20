@@ -1,0 +1,22 @@
+Connected to harness support_chatbot (session 2ec72215-de77-456a-a20a-5feed177b54b-support-chat).
+Type a message, or 'quit' to exit.
+
+you> The search function is broken.
+
+bot>  Thank you for reporting the issue. To help us investigate further, could you please provide a clear description of what is happening when the search function is broken?
+
+you> The search results page goes blank and the app stops responding when I search for a product.
+
+bot> Could you please describe the steps you took that led to the search function going blank and the app stopping responding?
+
+you> I opened the shop, clicked the search bar, typed a product name, and pressed Enter.
+
+bot> Could you please provide the details of your environment, such as the device you are using, the operating system, and the browser or app version?
+
+you> I am using a Windows 11 laptop with Google Chrome.
+
+[tool call] bugreports___create_bug_report
+
+The bug has been reported and your ticket ID is c6712a27-4d65-45fb-af52-2b1a402b501f. Thank you for helping us improve the online shop.
+
+you> quit

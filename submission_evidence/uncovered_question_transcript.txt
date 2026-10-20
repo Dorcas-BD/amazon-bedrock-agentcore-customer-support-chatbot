@@ -1,0 +1,8 @@
+Connected to harness support_chatbot (session support-chat).
+Type a message, or 'quit' to exit.
+
+you> Do you offer a student discount?
+
+bot> The FAQ does not mention a student discount. If you have any other questions about orders, shipping, returns, payments, products, accounts, or privacy, please let me know. For all other inquiries, please contact our human support team at the phone number provided in the FAQ.
+
+you> quit

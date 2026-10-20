@@ -1,0 +1,24 @@
+**/.DS_Store
+**/planning.md
+lesson-4-prompt-refinement/demos/demo3-evals/eval_responses.jsonl
+demo_guides/*
+scripts/*
+
+# Python virtual environments and generated files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and credentials
+.env
+.env.*
+.aws/
+credentials
+*.pem
+*.key
+
+# Editor and operating system files
+.vscode/
+Thumbs.db
+agentcore_config.json
