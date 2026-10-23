@@ -21,4 +21,3 @@ credentials
 # Editor and operating system files
 .vscode/
 Thumbs.db
-agentcore_config.json
